@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maps Basic Custom</string>
+    <string name="title_activity_show_maps">Map</string>
+    <string name="title_activity_get_loc">Map</string>
+</resources>
